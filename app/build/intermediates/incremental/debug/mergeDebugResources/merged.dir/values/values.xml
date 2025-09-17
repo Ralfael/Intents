@@ -1985,6 +1985,7 @@
     <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
     <string name="character_counter_pattern" translatable="false">%1$d/%2$d</string>
     <string name="choose_a_viewer">Choose a viewer</string>
+    <string name="choose_your_favorite_browser">Choose your favorite Browser</string>
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string description="Screen reader announcement for when a checkbox is on error. [CHAR LIMIT=NONE]" name="error_a11y_label">
     Error: invalid
@@ -2113,6 +2114,7 @@
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
+    <string name="permission_required_to_call">Permission required to call!</string>
     <string name="pick_an_image">Pick an image</string>
     <string name="return_and_close">Return and close</string>
     <string name="search_menu_title">Search</string>

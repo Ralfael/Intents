@@ -1,5 +1,6 @@
 package br.edu.scl.ifsp.sdm.intents
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import br.edu.scl.ifsp.sdm.intents.Extras.PARAMETER_EXTRA

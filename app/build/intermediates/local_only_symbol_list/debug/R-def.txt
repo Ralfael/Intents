@@ -25,12 +25,14 @@ mipmap ic_launcher_round
 string app_name
 string call_a_number
 string choose_a_viewer
+string choose_your_favorite_browser
 string implicit_intents
 string open_activity
 string open_activity_explicit_intent
 string open_the_browser
 string open_the_dialer
 string parameter
+string permission_required_to_call
 string pick_an_image
 string return_and_close
 style Base.Theme.Intents

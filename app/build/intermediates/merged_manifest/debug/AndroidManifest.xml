@@ -8,6 +8,15 @@
         android:minSdkVersion="19"
         android:targetSdkVersion="33" />
 
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
+
     <permission
         android:name="br.edu.scl.ifsp.sdm.intents.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
@@ -29,7 +38,13 @@
         android:theme="@style/Theme.Intents" >
         <activity
             android:name="br.edu.scl.ifsp.sdm.intents.ParameterActivity"
-            android:exported="false" />
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="OPEN_PARAMETER_ACTIVITY_ACTION" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
         <activity
             android:name="br.edu.scl.ifsp.sdm.intents.MainActivity"
             android:exported="true" >

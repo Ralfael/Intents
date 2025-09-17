@@ -1,3 +1,0 @@
-E:\Study\Programming\Desenvolvimento Mobile\1-Semestre\DAD1\aula05\Intents\app\src\main\java\br\edu\scl\ifsp\sdm\intents\ParameterActivity.kt
-E:\Study\Programming\Desenvolvimento Mobile\1-Semestre\DAD1\aula05\Intents\app\src\main\java\br\edu\scl\ifsp\sdm\intents\Extras.kt
-E:\Study\Programming\Desenvolvimento Mobile\1-Semestre\DAD1\aula05\Intents\app\src\main\java\br\edu\scl\ifsp\sdm\intents\MainActivity.kt

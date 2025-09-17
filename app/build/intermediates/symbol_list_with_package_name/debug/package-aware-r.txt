@@ -3806,6 +3806,7 @@ string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
 string choose_a_viewer
+string choose_your_favorite_browser
 string clear_text_end_icon_content_description
 string error_a11y_label
 string error_icon_content_description
@@ -3926,6 +3927,7 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string permission_required_to_call
 string pick_an_image
 string return_and_close
 string search_menu_title
